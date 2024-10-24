@@ -5,7 +5,7 @@ A quiz app to test your React knowledge.
 ## Live demo
 
 Checkout the [live demo hosted on Vercel]() and try out your React knowledge!
-| ![App Dashboard](/screenshots/ss1.png#150x150 "App Dashboard") | ![Question Page](/screenshots/ss2.png "Question Page") |
+| ![App Dashboard](/screenshots/ss1.png#100x100 "App Dashboard") | ![Question Page](/screenshots/ss2.png "Question Page") |
 | ----------------------------------- | ----------------------------------- |
 | ![Score Page](/screenshots/ss3.png "Score Page") |
 
